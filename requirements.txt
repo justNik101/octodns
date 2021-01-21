@@ -1,6 +1,6 @@
 # These are known good versions. You're free to use others and things will
 # likely work, but no promises are made, especilly if you go older.
-PyYaml==3.12
+PyYaml==5.4
 azure-mgmt-dns==1.0.1
 azure-common==1.1.6
 boto3==1.4.4
