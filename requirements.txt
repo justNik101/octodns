@@ -16,6 +16,7 @@ msrestazure==0.4.10
 natsort==5.0.3
 nsone==0.9.14
 python-dateutil==2.6.0
-requests==2.13.0
+requests==2.20
 s3transfer==0.1.10
 six==1.10.0
+pyjwt>=2.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
